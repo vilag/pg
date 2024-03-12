@@ -108,7 +108,7 @@ src="https://www.facebook.com/tr?id=663777231311448&ev=PageView&noscript=1"
             <div class="w-100 d-flex justify-content-between" style="">
                 <div>
                     <i class="fa fa-envelope mx-2"></i>
-                    <a class="navbar-sm-brand text-light text-decoration-none" href="ventas@pizarronesguadalajara.com" style="color: white !important; font-weight: 500 !important; font-size: 15px !important;">ventas@pizarronesguadalajara.com</a>
+                    <a class="navbar-sm-brand text-light text-decoration-none" href="ventas@pizarronesguadalajara.com" style="color: white !important; font-weight: 500 !important; font-size: 15px !important;">pizarronesgdlventas@gmail.com</a>
                     <i class="fa fa-phone mx-2"></i>
                     <a class="navbar-sm-brand text-light text-decoration-none" href="(33) 5000 1450" style="color: white !important; font-weight: 500 !important; font-size: 15px !important;">(33) 5000 1450</a>
                 </div>
