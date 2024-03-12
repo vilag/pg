@@ -20,7 +20,7 @@ switch ($_GET["op"]){
 	 		echo json_encode($rspta);
 
 	 		// Datos para el correo
-			$destinatario = "vventaspg@outlook.com, mjozafat@gmail.com, vilag2407@gmail.com";
+			$destinatario = "pizarronesgdlventas@gmail.com, vilag2407@gmail.com";
 			$asunto = "Contacto desde nuestra web: ".$nombre;
 
 			$carta = "De: $nombre \n";
