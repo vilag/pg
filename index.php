@@ -639,7 +639,7 @@ require "header.php";
                     <p>Somos vendedores directos con los precios más competitivos.</p>
                     <p>Manufacturamos con estándares internacionales que superan las expectativas del mercado.</p>
                     <h1>Política de Calidad</h1>
-                    <p>Nuestra meta es la satisfacción de nuestros clientes, mejorando continuamente la eficacia de nuestro sistema de Calidad y el cumplimiento de sus objetivos.</p>
+                    <p>En PIZARRONES GUADALAJARA nos dedicamos a la elaboración de Pizarrones y Muebles Escolares, teniendo como meta la satisfacción de nuestros clientes, mediante el cumplimiento de requisitos legales y reglamentarios, mejorando continuamente la eficacia en nuestro Sistema de Gestión de la Calidad y el Cumplimiento de los Objetivos.</p>
                 
                 </div>
                 <div class="col-md-4">

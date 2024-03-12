@@ -16,7 +16,7 @@
                         </li>
                         <li>
                             <i class="fa fa-envelope fa-fw"></i>
-                            <a class="text-decoration-none" href="mailto:info@company.com">ventas@pizarronesguadalajara.com <br>contacto@pizarronesguadalajara.com</a>
+                            <a class="text-decoration-none" href="mailto:info@company.com">pizarronesgdlventas@gmail.com</a>
                         </li>
                     </ul>
                 </div>
