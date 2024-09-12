@@ -82,7 +82,7 @@ require "header.php";
                                     Con parrilla portalibros o solera de soporte, asiento y respaldo en una o dos piezas de polipropileno. <br><br>
                                         <div class="form-group col-md-12 col-lg-12">
                                             <p class="text-left" style="float: left;">
-                                                <a class="btn btn-success" style="" href="productos.php">Ver productos _</a>
+                                                <a class="btn btn-success" style="" href="productos.php">Ver productos</a>
                                                 
                                             </p>
                                             <p class="text-left" style="float: left;">
