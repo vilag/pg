@@ -134,6 +134,25 @@ require "header.php";
         </a>
     </div>
     <!-- End Banner Hero -->
+    <section class="bg-success py-5">
+        <div class="container">
+            <div class="row align-items-center py-5">
+                <div class="col-md-7 text-white">
+                    
+                    <h4>En <strong>PIZARRONES GUADALAJARA</strong> </h4><br>
+                    <p>Preocupados con la problemática e impacto que el <b>cambio climático</b> tiene a nivel global, 
+                        nos unimos para la sensibilización y respeto por el medio ambiente, comprometiéndonos a buscar mejorar la utilización 
+                        de los recursos naturales utilizados en nuestros procesos, así como buscar la toma 
+                        de conciencia de todos nuestros colaboradores en este tema. 
+                    </p>
+                    <br>
+                </div>
+                <div class="col-md-5">
+                    <img src="images/cambio_climatico.jpg" width="100%">
+                </div>
+            </div>
+        </div>
+    </section>
     <section class="container py-5">
         <div class="row text-center pt-5 pb-3">
             <div class="col-lg-6 m-auto">
@@ -639,7 +658,11 @@ require "header.php";
                     <p>Somos vendedores directos con los precios más competitivos.</p>
                     <p>Manufacturamos con estándares internacionales que superan las expectativas del mercado.</p>
                     <h1>Política de Calidad</h1>
-                    <p>En PIZARRONES GUADALAJARA nos dedicamos a la elaboración de Pizarrones y Muebles Escolares, teniendo como meta la satisfacción de nuestros clientes, mediante el cumplimiento de requisitos legales y reglamentarios, mejorando continuamente la eficacia en nuestro Sistema de Gestión de la Calidad y el Cumplimiento de los Objetivos.</p>
+                    <p>En PIZARRONES GUADALAJARA nos dedicamos a la elaboración de Pizarrones y Muebles Escolares, 
+                        con el compromiso de buscar la sustentabilidad ambiental en nuestros procesos, teniendo como meta
+                        la satisfacción de nuestros clientes, mediante el cumplimiento de los requisitos legales y
+                        reglamentarios, mejorando continuamente la eficacia en nuestro Sistema de Gestión de la Calidad y el 
+                        Cumplimiento de los Objetivos.</p>
                 
                 </div>
                 <div class="col-md-4">
