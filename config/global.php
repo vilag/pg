@@ -1,8 +1,8 @@
 <?php 
 //Ip de la pc servidor de base de datos
 //define("DB_HOST","185.224.138.175");
-define("DB_HOST","srv366.hstgr.io");
-//define("DB_HOST","localhost");
+//define("DB_HOST","srv366.hstgr.io");
+define("DB_HOST","localhost");
 
 //Nombre de la base de datos
 //define("DB_NAME", "phpmy1_pizarronesguadalajara_com");
