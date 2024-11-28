@@ -18,6 +18,9 @@
                             <i class="fa fa-envelope fa-fw"></i>
                             <a class="text-decoration-none" href="mailto:info@company.com">pizarronesgdlventas@gmail.com</a>
                         </li>
+                        <li style="margin-top: 50px;">
+                            <a href="aviso_privacidad.php">Aviso de privacidad</a>
+                        </li>
                     </ul>
                 </div>
 
