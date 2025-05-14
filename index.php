@@ -303,7 +303,7 @@ require "header.php";
                                     <i class="text-muted fa fa-star"></i>
                                 </li>-->
                                 <!--<li style="margin-left: 20px !important; "><p class="text-center" style=""><a class="btn btn-success" style="background-color: #2A3F54 !important;">Más medidas</a></p></li>-->
-                                <li class="text-muted text-right" style="color: #212934 !important; font-weight: 500 !important; margin-left: 20px !important; margin-right: 10px !important; font-size: 25px !important;">$394.00</li>
+                                <li class="text-muted text-right" style="color: #212934 !important; font-weight: 500 !important; margin-left: 20px !important; margin-right: 10px !important; font-size: 25px !important;">$476.00</li>
                             </ul>
                             
                             
@@ -379,39 +379,7 @@ require "header.php";
                         
                     </div>
                 </div>
-                <div class="col-12 col-md-4 mb-4">
-                    <div class="card h-100">
-                        <a href="#">
-                            <img src="https://res.cloudinary.com/ddcszcshl/image/upload/v1638478243/Pizarrones%20Guadalajara/Pagina_web/Index/individual_j5nj8s.png" class="card-img-top" alt="...">
-                        </a>
-
-                        <div class="card-body">
-                            <div class="col-12 col-md-12 mb-12" style="margin-bottom: 30px !important;">
-                                <a href="#" class="h2 text-decoration-none text-dark" style="font-size: 20px !important; font-weight: 500 !important; margin-left: 20px !important; margin-right: 10px !important;">Pizarrón individual 30x40 cm</a>
-                                <p class="card-text" style="margin-left: 20px !important; margin-right: 10px !important;">
-                                    Con marco de plastico
-                                </p>
-                            </div>
-                            <ul class="list-unstyled d-flex justify-content-between">
-                                <!--<li>
-                                    <i class="text-warning fa fa-star"></i>
-                                    <i class="text-warning fa fa-star"></i>
-                                    <i class="text-warning fa fa-star"></i>
-                                    <i class="text-muted fa fa-star"></i>
-                                    <i class="text-muted fa fa-star"></i>
-                                </li>-->
-                                <!--<li style="margin-left: 20px !important; "><p class="text-center" style=""><a class="btn btn-success" style="background-color: #2A3F54 !important;">Más medidas</a></p></li>-->
-                                <li class="text-muted text-right" style="color: #212934 !important; font-weight: 500 !important; margin-left: 20px !important; margin-right: 10px !important; font-size: 25px !important;">$55.00</li>
-                            </ul>
-                            
-                            
-                            
-                            <!---->
-                        </div>
-
-                        
-                    </div>
-                </div>
+                
                 
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
@@ -490,7 +458,7 @@ require "header.php";
                             <ul class="list-unstyled d-flex justify-content-between">
                                 
                                 <!--<li style="margin-left: 20px !important; "><p class="text-center" style=""><a class="btn btn-success" style="background-color: #2A3F54 !important;">Más medidas</a></p></li>-->
-                                <li class="text-muted text-right" style="color: #212934 !important; font-weight: 500 !important; margin-left: 20px !important; margin-right: 10px !important; font-size: 25px !important;">$350.00</li>
+                                <li class="text-muted text-right" style="color: #212934 !important; font-weight: 500 !important; margin-left: 20px !important; margin-right: 10px !important; font-size: 25px !important;">$305.00</li>
                             </ul>
                             
                             
@@ -518,7 +486,7 @@ require "header.php";
                             <ul class="list-unstyled d-flex justify-content-between">
                                 
                                 <!--<li style="margin-left: 20px !important; "><p class="text-center" style=""><a class="btn btn-success" style="background-color: #2A3F54 !important;">Más medidas</a></p></li>-->
-                                <li class="text-muted text-right" style="color: #212934 !important; font-weight: 500 !important; margin-left: 20px !important; margin-right: 10px !important; font-size: 25px !important;">$787.93</li>
+                                <li class="text-muted text-right" style="color: #212934 !important; font-weight: 500 !important; margin-left: 20px !important; margin-right: 10px !important; font-size: 25px !important;">$914.00</li>
                             </ul>
                             
                             
@@ -577,7 +545,7 @@ require "header.php";
                             <ul class="list-unstyled d-flex justify-content-between">
                                 
                                 <!--<li style="margin-left: 20px !important; "><p class="text-center" style=""><a class="btn btn-success" style="background-color: #2A3F54 !important;">Más medidas</a></p></li>-->
-                                <li class="text-muted text-right" style="color: #212934 !important; font-weight: 500 !important; margin-left: 20px !important; margin-right: 10px !important; font-size: 25px !important;">$845.69</li>
+                                <li class="text-muted text-right" style="color: #212934 !important; font-weight: 500 !important; margin-left: 20px !important; margin-right: 10px !important; font-size: 25px !important;">$981.00</li>
                             </ul>
                             
                             
@@ -604,7 +572,7 @@ require "header.php";
                             <ul class="list-unstyled d-flex justify-content-between">
                                 
                                 <!--<li style="margin-left: 20px !important; "><p class="text-center" style=""><a class="btn btn-success" style="background-color: #2A3F54 !important;">Más medidas</a></p></li>-->
-                                <li class="text-muted text-right" style="color: #212934 !important; font-weight: 500 !important; margin-left: 20px !important; margin-right: 10px !important; font-size: 25px !important;">$1072.41</li>
+                                <li class="text-muted text-right" style="color: #212934 !important; font-weight: 500 !important; margin-left: 20px !important; margin-right: 10px !important; font-size: 25px !important;">$1244.00</li>
                             </ul>
                             
                             
@@ -625,13 +593,13 @@ require "header.php";
                             <div class="col-12 col-md-12 mb-12" style="margin-bottom: 30px !important;">
                                 <a href="#" class="h2 text-decoration-none text-dark" style="font-size: 20px !important; font-weight: 500 !important; margin-left: 20px !important; margin-right: 10px !important;">Mesa Kinder</a>
                                 <p class="card-text" style="margin-left: 20px !important; margin-right: 10px !important;">
-                                    Cubierta de polipropileno, Medidas: 60x120 cm, Altura 55 cm.
+                                    Cubierta de polipropileno, Medidas: 60x80 cm, Altura 55 cm.
                                 </p>
                             </div>
                             <ul class="list-unstyled d-flex justify-content-between">
                                 
                                 <!--<li style="margin-left: 20px !important; "><p class="text-center" style=""><a class="btn btn-success" style="background-color: #2A3F54 !important;">Más medidas</a></p></li>-->
-                                <li class="text-muted text-right" style="color: #212934 !important; font-weight: 500 !important; margin-left: 20px !important; margin-right: 10px !important; font-size: 25px !important;">$995.69</li>
+                                <li class="text-muted text-right" style="color: #212934 !important; font-weight: 500 !important; margin-left: 20px !important; margin-right: 10px !important; font-size: 25px !important;">$934.00</li>
                             </ul>
                             
                             
