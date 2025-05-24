@@ -247,9 +247,9 @@ src="https://www.facebook.com/tr?id=663777231311448&ev=PageView&noscript=1"
                                 $("#telefono").val("");
                                 $("#mensaje").val("");
                                 
-                                //alert("Registro exitoso, uno de nuestros agentes se comunicará con usted para solucionar todas sus dudas.");
-                                $(location).attr("href","http://pizarronesgdl-customer-care.site/indexpost.php");
-                                //window.open("http://pizarronesgdl-customer-care.site/indexpost.php","_self");
+                                alert("Registro exitoso, uno de nuestros agentes se comunicará con usted para solucionar todas sus dudas.");
+                                // $(location).attr("href","http://pizarronesgdl-customer-care.site/indexpost.php");
+                              
 
                                 
 
