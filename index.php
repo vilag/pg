@@ -626,12 +626,13 @@ require "header.php";
                     <p>Somos vendedores directos con los precios más competitivos.</p>
                     <p>Manufacturamos con estándares internacionales que superan las expectativas del mercado.</p>
                     <h1>Política de Calidad</h1>
-                    <p>En PIZARRONES GUADALAJARA nos dedicamos a la elaboración de Pizarrones y Muebles Escolares, 
-                        con el compromiso de buscar la sustentabilidad ambiental en nuestros procesos, teniendo como meta
-                        la satisfacción de nuestros clientes, mediante el cumplimiento de los requisitos legales y
-                        reglamentarios, mejorando continuamente la eficacia en nuestro Sistema de Gestión de la Calidad y el 
-                        Cumplimiento de los Objetivos.</p>
-                
+                    <p>En PIZARRONES GUADALAJARA somos una empresa establecida en Guadalajara Jalisco, dedicada a la elaboración de Pizarrones, Muebles Escolares e inyección de plástico, siendo conscientes de la incidencia de nuestra actividad sobre el medio ambiente, buscaremos fortalecer nuestro desempeño ambiental y la satisfacción de nuestros clientes, lo cual, lograremos mediante el cumplimiento de requisitos legales y reglamentarios, mejorando continuamente la eficacia de nuestro Sistema de Gestión Integral y el cumplimiento de los Objetivos establecidos, así como los siguientes compromisos:</p>
+                    <ul>
+                        <li>Proteger el medio ambiente a través de la prevención de la contaminación ambiental que pudiera generar nuestras actividades y producto, promoviendo la disminución de la generación de residuos.</li>
+                        <li>Manejo adecuado de residuos generados.</li>
+                        <li>Promover el uso responsable de recursos natural.</li>
+                        <li>Fomentar una cultura medioambiental entre todo el personal.</li>
+                    </ul>
                 </div>
                 <div class="col-md-4">
                     <img src="https://res.cloudinary.com/ddcszcshl/image/upload/v1638478017/Pizarrones%20Guadalajara/Pagina_web/Index/personal_uirwhj.png" width="100%">
@@ -640,15 +641,12 @@ require "header.php";
         </div>
     </section>
     
-    <section class="bg-light py-5">
+    <section class="bg-light py-5" style="display: none;">
         <div class="container my-4">
             <div class="row text-center py-3">
                 <div class="col-lg-6 m-auto">
                     <h1 class="h1">¿Que opinan nuestros clientes?</h1>
-                    <!--<p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        Lorem ipsum dolor sit amet.
-                    </p>-->
+                    
                 </div>
                 <div class="col-lg-9 m-auto tempaltemo-carousel">
                     <div class="row d-flex flex-row">
