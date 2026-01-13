@@ -633,6 +633,8 @@ require "header.php";
                         <li>Promover el uso responsable de recursos natural.</li>
                         <li>Fomentar una cultura medioambiental entre todo el personal.</li>
                     </ul>
+                    <h1>Alcance</h1>
+                    <p>"El Sistema de Gestión Integral de PIZARRONES GUADALAJARA S.A. de C.V aplica a las actividades de Diseño, Fabricación, venta y distribución de mobiliario escolar e inyección de plástico en sus instalaciones ubicadas en Guadalajara, Jalisco. Incluye los procesos de producción: herrería, pintura, Horno, ensamble, plástico, proceso de almacenamiento, pruebas de calidad, embalaje, distribución y envío. Se consideran los impactos ambientales derivados del uso de materiales, consumo energético y generación de residuos."<br><br> <b>Sitio  de Ejecución del SGI:</b> Jose Guadalupe Zuno 1800 Col. Americana C.P.44160 y Ing. Rubio no. 6 Colonia los Cajetes CP 45234.</p>
                 </div>
                 <div class="col-md-4">
                     <img src="https://res.cloudinary.com/ddcszcshl/image/upload/v1638478017/Pizarrones%20Guadalajara/Pagina_web/Index/personal_uirwhj.png" width="100%">
