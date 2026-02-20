@@ -625,7 +625,7 @@ require "header.php";
                     </p>
                     <p>Somos vendedores directos con los precios más competitivos.</p>
                     <p>Manufacturamos con estándares internacionales que superan las expectativas del mercado.</p>
-                    <h1>Política de Calidad</h1>
+                    <h1>Políticas</h1>
                     <p>En PIZARRONES GUADALAJARA somos una empresa establecida en Guadalajara Jalisco, dedicada a la elaboración de Pizarrones, Muebles Escolares e inyección de plástico, siendo conscientes de la incidencia de nuestra actividad sobre el medio ambiente, buscaremos fortalecer nuestro desempeño ambiental y la satisfacción de nuestros clientes, lo cual, lograremos mediante el cumplimiento de requisitos legales y reglamentarios, mejorando continuamente la eficacia de nuestro Sistema de Gestión Integral y el cumplimiento de los Objetivos establecidos, así como los siguientes compromisos:</p>
                     <ul>
                         <li>Proteger el medio ambiente a través de la prevención de la contaminación ambiental que pudiera generar nuestras actividades y producto, promoviendo la disminución de la generación de residuos.</li>
@@ -634,7 +634,7 @@ require "header.php";
                         <li>Fomentar una cultura medioambiental entre todo el personal.</li>
                     </ul>
                     <h1>Alcance</h1>
-                    <p>"El Sistema de Gestión Integral de PIZARRONES GUADALAJARA S.A. de C.V aplica a las actividades de Diseño, Fabricación, venta y distribución de mobiliario escolar e inyección de plástico en sus instalaciones ubicadas en Guadalajara, Jalisco. Incluye los procesos de producción: herrería, pintura, Horno, ensamble, plástico, proceso de almacenamiento, pruebas de calidad, embalaje, distribución y envío. Se consideran los impactos ambientales derivados del uso de materiales, consumo energético y generación de residuos."<br><br> <b>Sitio  de Ejecución del SGI:</b> Jose Guadalupe Zuno 1800 Col. Americana C.P.44160 y Ing. Rubio no. 6 Colonia los Cajetes CP 45234.</p>
+                    <p>"El Sistema de Gestión Integral de PIZARRONES GUADALAJARA S.A. de C.V aplica a las actividades de Diseño, Fabricación, venta y distribución de mobiliario escolar e inyección de plástico en sus instalaciones ubicadas en Jalisco. Incluye los procesos de producción: herrería, pintura, Horno, ensamble, plástico, proceso de almacenamiento, pruebas de calidad, embalaje, distribución y envío. Se consideran los impactos ambientales derivados del uso de materiales, consumo energético y generación de residuos."<br><br> <b>Sitio  de Ejecución del SGI:</b> Jose Guadalupe Zuno 1800 Col. Americana C.P.44160 y Ing. Rubio no. 6 Colonia los Cajetes CP 45234.</p>
                 </div>
                 <div class="col-md-4">
                     <img src="https://res.cloudinary.com/ddcszcshl/image/upload/v1638478017/Pizarrones%20Guadalajara/Pagina_web/Index/personal_uirwhj.png" width="100%">
@@ -729,7 +729,17 @@ require "header.php";
             </div>
         </div>
     </section>
+    <!-- <div id="contenedor_secciones_dinamicas" style="width: 100%; height: auto; background-color: #CCC;">
 
+    </div>
+    <style id="contenedor_clases_css">
+    </style>
+    <style id="contenedor_clases_media_css_260_500">
+    </style>
+    <style id="contenedor_clases_media_css_501_700">
+    </style>
+    <style id="contenedor_clases_media_css_701_1000">
+    </style> -->
    <?php
     require "footer.php";
     ?>
