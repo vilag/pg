@@ -625,7 +625,7 @@ require "header.php";
                     </p>
                     <p>Somos vendedores directos con los precios más competitivos.</p>
                     <p>Manufacturamos con estándares internacionales que superan las expectativas del mercado.</p>
-                    <h1>Políticas</h1>
+                    <h1>Política</h1>
                     <p>En PIZARRONES GUADALAJARA somos una empresa establecida en Guadalajara Jalisco, dedicada a la elaboración de Pizarrones, Muebles Escolares e inyección de plástico, siendo conscientes de la incidencia de nuestra actividad sobre el medio ambiente, buscaremos fortalecer nuestro desempeño ambiental y la satisfacción de nuestros clientes, lo cual, lograremos mediante el cumplimiento de requisitos legales y reglamentarios, mejorando continuamente la eficacia de nuestro Sistema de Gestión Integral y el cumplimiento de los Objetivos establecidos, así como los siguientes compromisos:</p>
                     <ul>
                         <li>Proteger el medio ambiente a través de la prevención de la contaminación ambiental que pudiera generar nuestras actividades y producto, promoviendo la disminución de la generación de residuos.</li>
